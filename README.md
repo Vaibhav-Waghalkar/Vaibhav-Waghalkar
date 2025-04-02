@@ -3,7 +3,7 @@
 <p align="center">
 🚀 <b>Full-Stack Developer | AI Enthusiast | CSE Student</b>  
 💡 Passionate about AI, Web Development, and Problem-Solving  
-🎯 Currently working on <b>ARIS (Advanced Responsive Intelligent System) – an AI Assistant</b>  
+🎯 Currently working on <b>AI Development</b>  
 🗣 Can communicate in German  
 </p>
 
