@@ -17,7 +17,6 @@
 
 - 🧠 **ARIS** – AI Desktop Assistant (Voice/Text, System Integration)
 - 🌐 **Official College Website** – Full Ownership & Development
-- 🧮 **House Price Prediction** – ML Regression Project
 - 📊 **Student Evaluation Portal** – For CodeTeckFeast & ByteFest2K25
 - 🤝 **Open Source** – Contributing & Building Technical Presence
 
