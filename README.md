@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 **CSE Student** passionate about **AI, ML, and scalable web systems**  
-- ⚡ I craft apps blending **AI + Web**, from assistants to portals  
+- ⚡ Currently building **ARIS – an advanced AI-powered assistant** (chat + voice + automation)  
 - 🧠 Tech Stack: **FastAPI, React, Python, C++, SQL, MongoDB**  
 - 💡 Love solving problems, building products, and optimizing systems  
 - 🚀 Dream: Shape the future with AI-powered and full-stack innovations  
@@ -54,7 +54,7 @@
 
 | 🚀 Project | 💬 Description | 🔗 Links |
 |-----------|----------------|---------|
-| **ARIS (Ongoing)** | AI-powered desktop assistant (chat + voice + system automation) | Tracking Soon |
+| **ARIS (Advanced Responsive Intelligent System)** | An AI-powered assistant with ChatGPT-style interface, voice/text input, system automation (open apps/files, run commands), email drafting, smart chat history, and support for multiple LLMs. | [Repo](https://github.com/Vaibhav-Waghalkar/ARIS-Project) |
 | **ByteFest2K25** | College Tech Fest platform – events, registration & results | [Live](https://bytefest2k25.netlify.app) • [Repo](https://github.com/Vaibhav-Waghalkar/ByteFest2K25) |
 | **Student Evaluation Tool** | Admin portal for event scoring & dashboards | In Progress |
 | **House Price ML** | Predictive ML model using regression (Kaggle dataset) | [Repo](https://github.com/Vaibhav-Waghalkar/House-Price-Prediction-ML) |
@@ -92,7 +92,7 @@
 
 ## 🧠 Fun Fact  
 
-> Building my own **AI assistant**, leading college tech projects, exploring **LLMs**, and still just a student — this is only the beginning! 🚀  
+> Building my own **AI assistant (ARIS)**, leading college tech projects, exploring **LLMs**, and still just a student — this is only the beginning! 🚀  
 
 ---
 
