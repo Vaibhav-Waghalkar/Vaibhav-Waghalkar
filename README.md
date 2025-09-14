@@ -54,7 +54,7 @@
 
 | 🚀 Project | 💬 Description | 🔗 Links |
 |-----------|----------------|---------|
-| **ARIS (Advanced Responsive Intelligent System)** | An AI-powered assistant with ChatGPT-style interface, voice/text input, system automation (open apps/files, run commands), email drafting, smart chat history, and support for multiple LLMs. | [Repo](https://github.com/Vaibhav-Waghalkar/ARIS-Project) |
+| **ARIS (Advanced Responsive Intelligent System)** | An AI-powered assistant with ChatGPT-style interface, voice/text input, system automation (open apps/files, run commands), email drafting, smart chat history, and support for multiple LLMs. | [Repo](https://github.com/Vaibhav-Waghalkar/ARIS-AI_Assistant) |
 | **ByteFest2K25** | College Tech Fest platform – events, registration & results | [Live](https://bytefest2k25.netlify.app) • [Repo](https://github.com/Vaibhav-Waghalkar/ByteFest2K25) |
 | **Student Evaluation Tool** | Admin portal for event scoring & dashboards | In Progress |
 | **House Price ML** | Predictive ML model using regression (Kaggle dataset) | [Repo](https://github.com/Vaibhav-Waghalkar/House-Price-Prediction-ML) |
