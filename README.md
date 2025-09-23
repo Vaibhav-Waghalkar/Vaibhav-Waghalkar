@@ -15,35 +15,27 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **CSE Student** passionate about **AI, ML, and scalable web systems**  
-- ⚡ Currently building **ARIS – an advanced AI-powered assistant** (chat + voice + automation)  
-- 🧠 Tech Stack: **FastAPI, React, Python, C++, SQL, MongoDB**  
-- 💡 Love solving problems, building products, and optimizing systems  
+- 🎓 **CSE Student** passionate about **AI, ML, and scalable web systems** - ⚡ Currently building **ARIS – an advanced AI-powered assistant** (chat + voice + automation)  
+- 🧠 Tech Stack: **FastAPI, React, Python, C++, SQL, MongoDB** - 💡 Love solving problems, building products, and optimizing systems  
 - 🚀 Dream: Shape the future with AI-powered and full-stack innovations  
-- 🌟 Motto: *“Code with purpose. Learn with passion. Deliver with pride.”*  
-
-------
+- 🌟 Motto: *“Code with purpose. Learn with passion. Deliver with pride.”* ---
 
 ## 🧰 Tech Arsenal
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Languages** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Backend & APIs** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+**Databases & Tools** ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
@@ -54,11 +46,12 @@
 
 | 🚀 Project | 💬 Description | 🔗 Links |
 |-----------|----------------|---------|
-| **ARIS (Advanced Responsive Intelligent System)** | An AI-powered assistant with ChatGPT-style interface, voice/text input, system automation (open apps/files, run commands), email drafting, smart chat history, and support for multiple LLMs. | [Repo](https://github.com/Vaibhav-Waghalkar/ARIS-AI_Assistant) |
-| **ByteFest2K25** | College Tech Fest platform – events, registration & results | [Live](https://bytefest2k25.netlify.app) • [Repo](https://github.com/Vaibhav-Waghalkar/ByteFest2K25) |
-| **Student Evaluation Tool** | Admin portal for event scoring & dashboards | In Progress |
-| **House Price ML** | Predictive ML model using regression (Kaggle dataset) | [Repo](https://github.com/Vaibhav-Waghalkar/House-Price-Prediction-ML) |
-| **DSA Practice** | Data Structures & Algorithms repo (C/C++/JS) | [Repo](https://github.com/Vaibhav-Waghalkar/DSA-practice) |
+| **ARIS (Advanced Responsive Intelligent System)** | An AI-powered assistant with a ChatGPT-style interface, voice/text input, system automation (open apps/files, run commands), email drafting, and support for multiple LLMs. | [Repo](https://github.com/Vaibhav-Waghalkar/ARIS-AI_Assistant) |
+| **AI Creation Platform (Hackathon)** | A multi-bot AI platform with RAG, augmentation, and personality-aware bots, built for the Google Gen AI International Hackathon. | [Repo](https://github.com/manavgt54/CHATBOT-CREATOR-AND-PRODUCTIVITY-VIBE-WORKSPACE) |
+| **ByteFest2K25** | A full-stack web platform for a college tech fest, featuring event listings, user registration, and real-time result updates. | [Live](https://bytefest2k25.netlify.app) • [Repo](https://github.com/Vaibhav-Waghalkar/ByteFest2K25) |
+| **Student Evaluation Tool** | An admin portal designed for scoring events and visualizing performance through interactive dashboards. | In Progress |
+| **House Price ML** | A predictive machine learning model using regression techniques on a Kaggle dataset to estimate house prices. | [Repo](https://github.com/Vaibhav-Waghalkar/House-Price-Prediction-ML) |
+| **DSA Practice** | A personal repository containing solutions and practice problems for Data Structures and Algorithms in C, C++, and JavaScript. | [Repo](https://github.com/Vaibhav-Waghalkar/DSA-practice) |
 
 ---
 
