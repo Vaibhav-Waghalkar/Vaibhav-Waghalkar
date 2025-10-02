@@ -1,92 +1,185 @@
-![Banner](https://i.pinimg.com/originals/0f/ff/3e/0fff3ecb7e2a7dd4e9c1c00761a7ee66.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0f/ff/3e/0fff3ecb7e2a7dd4e9c1c00761a7ee66.gif" alt="Banner" width="100%">
+</p>
 
-<h1 align="center">✨ Hi, I'm Vaibhav Waghalkar ✨</h1>
-<h3 align="center">💻 CSE Student | 🤖 AI Developer | 🌐 Full-Stack Web Developer | 🚀 Builder of Ideas & Innovations</h3>
+<h1 align="center">Hi, I'm Vaibhav Waghalkar 👋</h1>
+<h3 align="center">CSE Student | AI Developer | Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav-Waghalkar&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-Waghalkar" />
+  <img src="https://komarev.com/ghpvc/?username=Vaibhav-Waghalkar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="right">
-  <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" />
+  <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300" />
+</p>
+
+I'm a Computer Science student passionate about building intelligent, scalable, and user-centric applications. My focus lies at the intersection of **Artificial Intelligence** and **Full-Stack Development**, where I enjoy solving complex problems and turning innovative ideas into reality. My goal is to leverage technology to build powerful tools that make a difference.
+
+> *“Code with purpose. Learn with passion. Deliver with pride.”*
+
+---
+
+## 🛠️ My Tech Stack
+
+**Languages** <p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+**Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
+## 🚀 My Creations
 
-## 👨‍💻 About Me  
+Here are some of the key projects I've been working on.
 
-- 🎓 **CSE Student** passionate about **AI, ML, and scalable web systems** - ⚡ Currently building **ARIS – an advanced AI-powered assistant** (chat + voice + automation)  
-- 🧠 Tech Stack: **FastAPI, React, Python, C++, SQL, MongoDB** - 💡 Love solving problems, building products, and optimizing systems  
-- 🚀 Dream: Shape the future with AI-powered and full-stack innovations  
-- 🌟 Motto: *“Code with purpose. Learn with passion. Deliver with pride.”* ---
-
-## 🧰 Tech Arsenal
-
-**Languages** ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & APIs** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases & Tools** ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ARIS (AI Assistant)</h3>
+      <div align="center">
+        <a href="https://github.com/Vaibhav-Waghalkar/ARIS-AI_Assistant" target="_blank">
+          <img src="https://raw.githubusercontent.com/Vaibhav-Waghalkar/ARIS-AI_Assistant/main/thumbnail.png" alt="ARIS AI Assistant" width="400" />
+        </a>
+        <p>An AI assistant with a ChatGPT-style UI, voice/text input, system automation, and multi-LLM support.</p>
+        <p>
+          <a href="https://github.com/Vaibhav-Waghalkar/ARIS-AI_Assistant" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">CodeCraft Website Builder</h3>
+      <div align="center">
+        <a href="https://github.com/Vaibhav-Waghalkar/CodeCraft" target="_blank">
+          <img src="https://raw.githubusercontent.com/Vaibhav-Waghalkar/CodeCraft/main/thumbnail.png" alt="CodeCraft Website Builder" width="400" />
+        </a>
+        <p>An intuitive low-code platform for building and deploying modern, responsive websites without writing code.</p>
+        <p>
+          <a href="https://github.com/Vaibhav-Waghalkar/CodeCraft" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portfolio Website</h3>
+      <div align="center">
+        <a href="https://github.com/Vaibhav-Waghalkar/Portfolio-Website" target="_blank">
+          <img src="https://raw.githubusercontent.com/Vaibhav-Waghalkar/Portfolio-Website/main/thumbnail.png" alt="Portfolio Website" width="400" />
+        </a>
+        <p>My personal portfolio website to showcase my skills, projects, and journey as a developer. Built with React.</p>
+        <p>
+          <a href="https://github.com/Vaibhav-Waghalkar/Portfolio-Website" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">ByteFest2K25 Tech Fest</h3>
+      <div align="center">
+        <a href="https://github.com/Vaibhav-Waghalkar/ByteFest2K25" target="_blank">
+          <img src="https://raw.githubusercontent.com/Vaibhav-Waghalkar/ByteFest2K25/main/thumbnail.png" alt="ByteFest2K25" width="400" />
+        </a>
+        <p>Full-stack event platform for a college tech fest with user registration, event listings, and live results.</p>
+        <p>
+          <a href="https://github.com/Vaibhav-Waghalkar/ByteFest2K25" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://bytefest2k25.netlify.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-2496ED?style=for-the-badge&logo=vercel" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%">
+      <h3 align="center">AI Creation Platform</h3>
+      <div align="center">
+        <a href="https://github.com/manavgt54/CHATBOT-CREATOR-AND-PRODUCTIVITY-VIBE-WORKSPACE" target="_blank">
+          <img src="https://raw.githubusercontent.com/manavgt54/CHATBOT-CREATOR-AND-PRODUCTIVITY-VIBE-WORKSPACE/main/thumbnail.png" alt="AI Creation Platform" width="400" />
+        </a>
+        <p>A multi-bot AI platform with RAG and personality-aware agents, built for the Google Gen AI Hackathon.</p>
+        <p>
+          <a href="https://github.com/manavgt54/CHATBOT-CREATOR-AND-PRODUCTIVITY-VIBE-WORKSPACE" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Student Evaluation Tool</h3>
+      <div align="center">
+        <a href="https://github.com/Vaibhav-Waghalkar/Student-Evaluation-tool" target="_blank">
+          <img src="https://raw.githubusercontent.com/Vaibhav-Waghalkar/Student-Evaluation-tool/main/thumbnail.png" alt="Student Evaluation Tool" width="400" />
+        </a>
+        <p>An admin portal designed for scoring events and visualizing student performance through interactive dashboards.</p>
+        <p>
+          <a href="https://github.com/Vaibhav-Waghalkar/Student-Evaluation-tool" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 📌 Highlighted Projects  
-
-| 🚀 Project | 💬 Description | 🔗 Links |
-|-----------|----------------|---------|
-| **ARIS (Advanced Responsive Intelligent System)** | An AI-powered assistant with a ChatGPT-style interface, voice/text input, system automation (open apps/files, run commands), email drafting, and support for multiple LLMs. | [Repo](https://github.com/Vaibhav-Waghalkar/ARIS-AI_Assistant) |
-| **AI Creation Platform (Hackathon)** | A multi-bot AI platform with RAG, augmentation, and personality-aware bots, built for the Google Gen AI International Hackathon. | [Repo](https://github.com/manavgt54/CHATBOT-CREATOR-AND-PRODUCTIVITY-VIBE-WORKSPACE) |
-| **ByteFest2K25** | A full-stack web platform for a college tech fest, featuring event listings, user registration, and real-time result updates. | [Live](https://bytefest2k25.netlify.app) • [Repo](https://github.com/Vaibhav-Waghalkar/ByteFest2K25) |
-| **Student Evaluation Tool** | An admin portal designed for scoring events and visualizing performance through interactive dashboards. | In Progress |
-| **House Price ML** | A predictive machine learning model using regression techniques on a Kaggle dataset to estimate house prices. | [Repo](https://github.com/Vaibhav-Waghalkar/House-Price-Prediction-ML) |
-| **DSA Practice** | A personal repository containing solutions and practice problems for Data Structures and Algorithms in C, C++, and JavaScript. | [Repo](https://github.com/Vaibhav-Waghalkar/DSA-practice) |
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Waghalkar&show_icons=true&theme=tokyonight" width="350px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Waghalkar&theme=tokyonight" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Waghalkar&layout=compact&theme=tokyonight" width="350px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Waghalkar&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Waghalkar&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 📚 Currently Exploring  
+## 🌱 Currently Learning
 
-- 🤖 Deep Learning, Transformers & LLMs (GPT-style models)  
-- 🛠️ DevOps Tools – Docker, GitHub Actions, CI/CD  
-- 🌐 Scalable Web Architectures with Microservices  
-- ⚡ System Design, API Optimization & Cloud Deployment  
-
----
-
-## 🌐 Connect with Me  
-
-<a href="mailto:vaibhavwaghalkar2@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vaibhav-waghalkar-848885343/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Vaibhav200205"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/waghalkar.vaibhav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- **Deep Learning:** Diving into Transformers and the architecture of Large Language Models.
+- **DevOps:** Automating workflows with Docker, GitHub Actions, and CI/CD pipelines.
+- **System Design:** Architecting scalable, resilient systems with microservices and cloud technologies.
 
 ---
 
-## 🧠 Fun Fact  
+## 🌐 Connect with Me
 
-> Building my own **AI assistant (ARIS)**, leading college tech projects, exploring **LLMs**, and still just a student — this is only the beginning! 🚀  
+<p align="left">
+  <a href="mailto:vaibhavwaghalkar2@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhav-waghalkar-848885343/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Vaibhav200205"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/waghalkar.vaibhav/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-![Coder GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="500px">
+</p>
